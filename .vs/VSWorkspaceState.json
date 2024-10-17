@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\public",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\redux",
+    "\\src\\redux\\slices"
+  ],
+  "PreviewInSolutionExplorer": false
+}
